@@ -151,10 +151,10 @@ shinyUI(fluidPage(
                            attempted.",br(),br(),"With the Complexity Parameter you can set a threshold. Any split that does not 
                            decrease the overall lack of fit by a factor of the threshold is not attempted.")), 
         
-        tabPanel("About", p(class="about",br(),br(),"Title: Titanic",br(),"Author: Karlan Astrego",br(),"Version 1.0",br(),
+       tabPanel("About", p(class="about",br(),br(),"Title: Titanic",br(),"Author: Karlan Astrego",br(),"Version 1.0",br(),
                             br(), "The data used in this app is from Kaggle.com.",br(),br(),
                             "This app was a project for the 'Developing Data Products' Course from Coursera and the John Hopkins University.",
-                            br(),a(href= "https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage",img(src="coursera.jpg",
+                            br(),br(),"You can find the code on Github:",a(href="https://github.com/astrego/Titanic",span("https://github.com/astrego/Titanic")),a(href= "https://www.coursera.org/specialization/jhudatascience/1?utm_medium=listingPage",img(src="coursera.jpg",
                             a(href= "https://www.kaggle.com",img(src="kaggle.png",height = 200, width = 190))))))
       )
                
