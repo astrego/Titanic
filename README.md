@@ -6,7 +6,7 @@ With the Titanic app you can predict the rate of survival of death of the Titani
 With the Minimum of Splits you can set the minimum number of observations that must exist in a node in order for a split to be attempted. 
 
 
-
+https://astrego.shinyapps.io/Titanic/_w_ec6aed4c/screenshot.png
 
 
 With the Minimum of Splits you can set the minimum number of observations that must exist in a node in order for a split to be attempted. 
